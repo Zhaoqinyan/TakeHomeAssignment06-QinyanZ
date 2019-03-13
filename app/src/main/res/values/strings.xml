@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TakeHomeAssignment06-QinyanZ</string>
+    <string name="submit">SUBMIT</string>
+    <string name="amount">Amount</string>
+    <string name="tax_percentage">Tax Percentage</string>
+    <string name="tip_percentage">Tip Percentage</string>
+</resources>
